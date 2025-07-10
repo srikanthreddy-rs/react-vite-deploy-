@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/d68c7f1c-d68b-4794-ae4c-75345229487b
+**URL**: [https://lovable.dev/projects/d68c7f1c-d68b-4794-ae4c-75345229487b](https://react-vite-deploy-sooty.vercel.app/)
 
 ## How can I edit this code?
 
